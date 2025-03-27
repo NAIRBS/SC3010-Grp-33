@@ -1,0 +1,1209 @@
+Mar 27, 2025 7:29:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 27, 2025 7:29:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 27, 2025 7:29:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3170f797')
+Mar 27, 2025 7:30:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 27, 2025 7:30:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 27, 2025 7:30:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@34973622')
+Mar 27, 2025 7:30:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Mar 27, 2025 7:30:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Mar 27, 2025 7:32:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Mar 27, 2025 7:32:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Mar 27, 2025 7:32:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 27, 2025 7:32:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 27, 2025 7:32:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6b8fcec2')
+Mar 27, 2025 7:34:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Mar 27, 2025 7:34:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Mar 27, 2025 7:36:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: Looking for custom properties at '/WEB-INF/velocity.properties'
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: No custom properties found. Using default Velocity configuration.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : *******************************************************************
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : RuntimeInstance initializing.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Trying to use logger class org.apache.velocity.tools.view.servlet.ServletLogger
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] LogSystem has been deprecated. Please use a LogChute implementation.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] ResourceLoader instantiated: org.apache.velocity.tools.view.servlet.WebappLoader
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] WebappLoader : initialization starting.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] WebappLoader : initialization complete.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Default ResourceManager initialization complete.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Define
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Break
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Created '20' parsers.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Velocimacro : initialization starting.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.tools.view.servlet.WebappLoader: 
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] org.apache.velocity.exception.ResourceNotFoundException: WebappLoader : Resource 'VM_global_library.vm' not found.
+	at org.apache.velocity.tools.view.servlet.WebappLoader.getResourceStream(WebappLoader.java:179)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.app.VelocityEngine.init(VelocityEngine.java:107)
+	at org.apache.velocity.tools.view.servlet.VelocityViewServlet.initVelocity(VelocityViewServlet.java:378)
+	at org.apache.velocity.tools.view.servlet.VelocityViewServlet.init(VelocityViewServlet.java:207)
+	at org.apache.struts2.sitemesh.VelocityDecoratorServlet.init(VelocityDecoratorServlet.java:72)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1269)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1182)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1072)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5362)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5660)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1127)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2020)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : Default library not found.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : autoload off : VM system will not automatically reload global library macros
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Velocimacro : Velocimacro : initialization complete.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : RuntimeInstance successfully initialized.
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: No toolbox entry in configuration. Looking for '/WEB-INF/toolbox.xml'
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity   [info] VelocityViewServlet: Default content-type is: text/html
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 27, 2025 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@62122340')
+Mar 27, 2025 7:42:44 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:43:12 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:43:26 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:45:32 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:50:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Mar 27, 2025 7:50:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Mar 27, 2025 7:50:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Mar 27, 2025 7:50:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: Looking for custom properties at '/WEB-INF/velocity.properties'
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: No custom properties found. Using default Velocity configuration.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : *******************************************************************
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Starting Apache Velocity v1.6.4 (compiled: 2010-04-27 15:31:23)
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : RuntimeInstance initializing.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Trying to use logger class org.apache.velocity.tools.view.servlet.ServletLogger
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] LogSystem has been deprecated. Please use a LogChute implementation.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] ResourceLoader instantiated: org.apache.velocity.tools.view.servlet.WebappLoader
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] WebappLoader : initialization starting.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] WebappLoader : initialization complete.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl) with class java.util.Collections$SynchronizedMap cache map.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Default ResourceManager initialization complete.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Define
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Break
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Evaluate
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Created '20' parsers.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Velocimacro : initialization starting.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocity was not initialized! Calling init()...
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Could not load resource 'VM_global_library.vm' from ResourceLoader org.apache.velocity.tools.view.servlet.WebappLoader: 
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] org.apache.velocity.exception.ResourceNotFoundException: WebappLoader : Resource 'VM_global_library.vm' not found.
+	at org.apache.velocity.tools.view.servlet.WebappLoader.getResourceStream(WebappLoader.java:179)
+	at org.apache.velocity.runtime.resource.loader.ResourceLoader.resourceExists(ResourceLoader.java:224)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderForResource(ResourceManagerImpl.java:641)
+	at org.apache.velocity.runtime.resource.ResourceManagerImpl.getLoaderNameForResource(ResourceManagerImpl.java:624)
+	at org.apache.velocity.runtime.RuntimeInstance.getLoaderNameForResource(RuntimeInstance.java:1464)
+	at org.apache.velocity.runtime.VelocimacroFactory.initVelocimacro(VelocimacroFactory.java:159)
+	at org.apache.velocity.runtime.RuntimeInstance.init(RuntimeInstance.java:261)
+	at org.apache.velocity.app.VelocityEngine.init(VelocityEngine.java:107)
+	at org.apache.velocity.tools.view.servlet.VelocityViewServlet.initVelocity(VelocityViewServlet.java:378)
+	at org.apache.velocity.tools.view.servlet.VelocityViewServlet.init(VelocityViewServlet.java:207)
+	at org.apache.struts2.sitemesh.VelocityDecoratorServlet.init(VelocityDecoratorServlet.java:72)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1269)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1182)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1072)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5362)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5660)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1127)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2020)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : Default library not found.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] Velocimacro : autoload off : VM system will not automatically reload global library macros
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : Velocimacro : Velocimacro : initialization complete.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  : RuntimeInstance successfully initialized.
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity  [debug] VelocityViewServlet: No toolbox entry in configuration. Looking for '/WEB-INF/toolbox.xml'
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO:  Velocity   [info] VelocityViewServlet: Default content-type is: text/html
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 27, 2025 7:50:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2bd36f8c')
+Mar 27, 2025 7:57:04 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 7:57:19 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:01:17 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:01:31 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:03:52 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:04:22 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:05:22 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:07:18 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:24:59 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:25:12 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:25:49 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:27:12 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:28:13 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/str] threw exception [javax.servlet.ServletException: java.lang.IllegalStateException: Cannot create a session after the response has been committed] with root cause
+java.lang.IllegalStateException: Cannot create a session after the response has been committed
+	at org.apache.catalina.connector.Request.doGetSession(Request.java:3069)
+	at org.apache.catalina.connector.Request.getSession(Request.java:2441)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:897)
+	at org.apache.catalina.connector.RequestFacade.getSession(RequestFacade.java:909)
+	at javax.servlet.http.HttpServletRequestWrapper.getSession(HttpServletRequestWrapper.java:238)
+	at org.apache.jasper.runtime.PageContextImpl._initialize(PageContextImpl.java:147)
+	at org.apache.jasper.runtime.PageContextImpl.initialize(PageContextImpl.java:126)
+	at org.apache.jasper.runtime.JspFactoryImpl.internalGetPageContext(JspFactoryImpl.java:111)
+	at org.apache.jasper.runtime.JspFactoryImpl.getPageContext(JspFactoryImpl.java:64)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:73)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsExecuteFilter.doFilter(StrutsExecuteFilter.java:85)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.obtainContent(SiteMeshFilter.java:129)
+	at com.opensymphony.sitemesh.webapp.SiteMeshFilter.doFilter(SiteMeshFilter.java:77)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareFilter.doFilter(StrutsPrepareFilter.java:82)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2549)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2538)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+
+Mar 27, 2025 8:30:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Mar 27, 2025 8:30:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Mar 27, 2025 8:30:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()

