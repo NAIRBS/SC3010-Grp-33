@@ -24,7 +24,7 @@ cd <path-to-apache-tomcat-7.0.81-windows-x64\apache-tomcat-7.0.81\bin>
 ### **Step 2: Start Apache Tomcat**
 Run the following command to start the server:
 ```
-startup.bin
+.\startup.bat
 ```
 
 ### **Step 3: Access the Application**
